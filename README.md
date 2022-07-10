@@ -1,0 +1,2 @@
+# gizlilik
+ehliyetkursum gizililik
